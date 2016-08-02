@@ -167,7 +167,7 @@ div.main-container {
         }
 
         div.post-footer a {
-            color: #57ad68;
+            color: #FF2B4F;
             font-size: 14px;
             line-height: 35px;
             text-decoration: none;
@@ -285,12 +285,12 @@ div.post-meta {
         }
 
         a.category {
-            color: #57ad68;
+            color: #FF2B4F;
             font-size: 14px;
         }
 
         a.category:hover {
-            color: #468c54;
+            color: #FF758C;
         }
 
         a.author {
@@ -355,7 +355,7 @@ div.page-container {
                 }
 
                 a:hover {
-                    color: #57ad68;
+                    color: #ff2b4f;
                 }
             }
 
@@ -855,9 +855,9 @@ div.tags a {
 }
 
 div.tags a:hover {
-    color: #468c54;
-    border-color: #a9d8b2;
-    background: rgba(87,173,104,0.1);
+    color: #ff758c;
+    border-color: #700013;
+    background: rgba(189,0,31,0.1);
     text-decoration: none;
 }
 
